@@ -41,7 +41,7 @@ Ensure you have **Node.js** installed.
 ### Installation & Running the Project
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/autodb-ai.git
+git clone https://github.com/adityaupadhyay07/AutoDB.AI
 
 # Navigate to the project folder
 cd autodb-ai
