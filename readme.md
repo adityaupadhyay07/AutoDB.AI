@@ -1,6 +1,6 @@
-# SchemaFlow-AI - Natural Language to ER Diagrams & SQL Generator
+# AutoDB.AI - Natural Language to ER Diagrams & SQL Generator
 
-![SchemaFlow-AI](images/hero.png)
+![AutoDB.AI](images/hero.png)
 
 **🏆 Hack X ACM Hackathon Winning Project**
 
@@ -12,7 +12,7 @@ There is an urgent need for a **smarter, faster, and more intuitive solution** t
 ---
 
 ## 💡 Solution: AutoDB.AI
-**SchemaFlow-AI** is an AI-powered **Database Management System (DBMS) Generator** that transforms database design by enabling users to create an optimized database schema using a simple text prompt.
+**AutoDB.AI** is an AI-powered **Database Management System (DBMS) Generator** that transforms database design by enabling users to create an optimized database schema using a simple text prompt.
 
 ### ✨ Features
 ✅ **Automated Database Design**: Speeds up development by eliminating manual schema creation, benefiting startups, enterprises, and freelancers.
